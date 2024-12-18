@@ -1,0 +1,26 @@
+# Python virtual environment
+d_venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+
+# Model and large files
+fine_tuned_model/
+results/
+logs/
+*.log
+
+# Data files
+*.csv
+*.xlsx
+
+# IDE files
+.vscode/
+.idea/
+
+# Docker
+*.dockerignore
